@@ -1,0 +1,1 @@
+tr -d ' ' < firstfile.txt | sort > sortedfile.txt

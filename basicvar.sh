@@ -1,0 +1,2 @@
+var=you_are_a_ghost_driving_a_flesh_coated_skeleton_riding_a_giant_piece_of_rock_around_a_terrifying_ball_of_fire_fear_none
+echo $var
